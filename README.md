@@ -5,6 +5,8 @@
 
 #### 언어 및 도구
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanghahwang)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **yanghahwang/yanghahwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
