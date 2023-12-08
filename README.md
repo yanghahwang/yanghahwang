@@ -4,7 +4,7 @@
 #### Contact
 <div style="text-align: left;">
 	<a href="mailto:yhaa228@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white&link=mailto:yhaa228@gmail.com"/></a>
-	<a href="www.linkedin.com/in/yangha-hwang"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white&link=www.linkedin.com/in/yangha-hwang"/></a> 
+	<a href="www.linkedin.com/in/yangha-hwang/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white&link=www.linkedin.com/in/yangha-hwang/"/></a> 
 </div>
 
 
