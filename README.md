@@ -4,7 +4,7 @@
 #### Contact
 <div style="text-align: left;">
 	<a href="mailto:yhaa228@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white&link=mailto:yhaa228@gmail.com"/></a>
-	<a href="연결하고싶은링크"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linked&logoColor=white&link=연결하고싶은링크"/></a> 
+	<a href="연결하고싶은링크"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=연결하고싶은링크"/></a> 
 </div>
 
 
